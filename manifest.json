@@ -1,0 +1,39 @@
+{
+  "name": "ReviewWisata",
+  "short_name": "ReviewWisata",
+  "scope": "URL HOMEPAGE",
+  "start_url": "URL HOMEPAGE",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Cek wisata sebelum berkunjung.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHu1IQAWzrVmv3I_EIF6CuQMjBYV0PmGRSAPjuG3Ya4dSoV7cM7aonud5Twp19t3ZRN5n9pMsBN5xUYCAQWZXWvDy7Cp8b0ktKvJFwn1MLy1miYQJuZvOCy8pweCxNc-BNsS5uaYPpbWrofKr1fqHoJlffnAyIPFK3lpuwv3dtKZQAi86Xi1HxofqhqQ/s48/Gold%20Luxury%20Business%20Logo%20(2).png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHu1IQAWzrVmv3I_EIF6CuQMjBYV0PmGRSAPjuG3Ya4dSoV7cM7aonud5Twp19t3ZRN5n9pMsBN5xUYCAQWZXWvDy7Cp8b0ktKvJFwn1MLy1miYQJuZvOCy8pweCxNc-BNsS5uaYPpbWrofKr1fqHoJlffnAyIPFK3lpuwv3dtKZQAi86Xi1HxofqhqQ/s72/Gold%20Luxury%20Business%20Logo%20(2).png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHu1IQAWzrVmv3I_EIF6CuQMjBYV0PmGRSAPjuG3Ya4dSoV7cM7aonud5Twp19t3ZRN5n9pMsBN5xUYCAQWZXWvDy7Cp8b0ktKvJFwn1MLy1miYQJuZvOCy8pweCxNc-BNsS5uaYPpbWrofKr1fqHoJlffnAyIPFK3lpuwv3dtKZQAi86Xi1HxofqhqQ/s96/Gold%20Luxury%20Business%20Logo%20(2).png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHu1IQAWzrVmv3I_EIF6CuQMjBYV0PmGRSAPjuG3Ya4dSoV7cM7aonud5Twp19t3ZRN5n9pMsBN5xUYCAQWZXWvDy7Cp8b0ktKvJFwn1MLy1miYQJuZvOCy8pweCxNc-BNsS5uaYPpbWrofKr1fqHoJlffnAyIPFK3lpuwv3dtKZQAi86Xi1HxofqhqQ/s144/Gold%20Luxury%20Business%20Logo%20(2).png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHu1IQAWzrVmv3I_EIF6CuQMjBYV0PmGRSAPjuG3Ya4dSoV7cM7aonud5Twp19t3ZRN5n9pMsBN5xUYCAQWZXWvDy7Cp8b0ktKvJFwn1MLy1miYQJuZvOCy8pweCxNc-BNsS5uaYPpbWrofKr1fqHoJlffnAyIPFK3lpuwv3dtKZQAi86Xi1HxofqhqQ/s168/Gold%20Luxury%20Business%20Logo%20(2).png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHu1IQAWzrVmv3I_EIF6CuQMjBYV0PmGRSAPjuG3Ya4dSoV7cM7aonud5Twp19t3ZRN5n9pMsBN5xUYCAQWZXWvDy7Cp8b0ktKvJFwn1MLy1miYQJuZvOCy8pweCxNc-BNsS5uaYPpbWrofKr1fqHoJlffnAyIPFK3lpuwv3dtKZQAi86Xi1HxofqhqQ/s192/Gold%20Luxury%20Business%20Logo%20(2).png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHu1IQAWzrVmv3I_EIF6CuQMjBYV0PmGRSAPjuG3Ya4dSoV7cM7aonud5Twp19t3ZRN5n9pMsBN5xUYCAQWZXWvDy7Cp8b0ktKvJFwn1MLy1miYQJuZvOCy8pweCxNc-BNsS5uaYPpbWrofKr1fqHoJlffnAyIPFK3lpuwv3dtKZQAi86Xi1HxofqhqQ/s512/Gold%20Luxury%20Business%20Logo%20(2).png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
